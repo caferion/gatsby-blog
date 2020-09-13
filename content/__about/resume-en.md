@@ -1,13 +1,13 @@
 ---
 title: 'about'
-date: 2019-1-27 16:21:13
+date: 2020-9-11 16:21:13
 lang: 'en'
 ---
 
-# Your name
+# 곽동근
 
 <div align="center">
 
-_Thank you for reading my resume. If you want to contact me, Please send me an email._
+블로그 개설 중
 
 </div>
