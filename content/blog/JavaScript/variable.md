@@ -1,11 +1,9 @@
 ---
-title: '호이스팅(Hoisting)의 이해'
+title: 'let, const 그리고 var (자바스크립트 변수 선언)'
 date: 2020-12-21 00:08:00
 category: 'JavaScript'
 draft: false
 ---
-
-# let, const 그리고 var (자바스크립트 변수 선언)
 
 자바스크립트에서 변수를 선언하는 방법에는 `let`, `const` 그리고 `var` 3가지가 있다. var는 자바스크립트 초창기부터 변수를 선언하는 방법이고 let, const는 ES6에서 추가되었다. 어떠한 차이들이 있는지 한번 알아보자.
 
