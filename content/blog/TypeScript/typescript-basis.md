@@ -1,7 +1,7 @@
 ---
 title: 'TypeScirpt #1 타입스크립트 기초'
 date: 2020-12-30 18:11:00
-category: 'JavaScript'
+category: 'TypeScript'
 draft: false
 ---
 
