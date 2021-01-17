@@ -32,7 +32,7 @@ ECMA Scirpt + Lint 합성어로 자바스크립트 문법중에 에러가 있는
   "main": "index.js", // 초기 진입 파일
   "dependencies": {
     "eslint": "^7.2.0",
-    "eslint-plugin-import": "^2.21.2" // import / export 구문의 린팅 지원 플러그인
+    "eslint-plugin-import": "^2.21.2" // import, export 구문의 린팅 지원 플러그인
   },
   "repository": {
     // 레포 정보
@@ -125,7 +125,9 @@ $ npm install eslint eslint-config-exem --save-dev
 
 ```jsx
 module.exports = {
-  extends: 'exem', // eslint-config-[사용할이름] 사용할이름을 넣으면된다. 다른 룰도 같이 사용시 ['exem', ....]배열로 선언해주면 된다.
+  // eslint-config-[사용할이름] 사용할이름을 넣으면된다.
+  // 다른 룰도 같이 사용시 ['exem', ....]배열로 선언해주면 된다.
+  extends: 'exem',
   rules: {
     // 프로젝트 추가할 룰들
     // 아래예시는 개발 편의를 위해 개발시에는 콘솔과 디버거 에러를 끈다.
