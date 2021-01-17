@@ -50,7 +50,7 @@ ECMA Scirpt + Lint 합성어로 자바스크립트 문법중에 에러가 있는
 
 기존에 Airbnb룰을 토대로 사용했기에 Airbnb룰을 그대로 가져와 추가하는 형태로 진행했습니다. 처음 룰을 만드시는 분이라면 무작정 처음부터 추가하는 것보다 `Airbnb`룰 셋을 가져와서 써보면서 불편하거나 나에게 맞는 스타일 룰을 수정 하는 방법이 좋습니다.
 
-![폴더구조](./images/eslint-rule-setting.png)
+![폴더구조](./images/eslint-rule-setting1.png)
 
 - eslint-config-airbnb-base : airbnb js base 최신룰을 가져왔습니다.
 - rules : Airbnb 룰셋 파일별로 룰을 수정하기 위해서 Airbnb룰 파일 구조 그대로 만들었습니다.
