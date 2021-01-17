@@ -1,7 +1,7 @@
 ---
 title: '호이스팅(Hoisting)의 이해'
 date: 2020-09-14 03:30:13
-category: 'JavaScript'
+category: 'javascript'
 draft: false
 ---
 

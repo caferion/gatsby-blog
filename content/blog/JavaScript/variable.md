@@ -1,7 +1,7 @@
 ---
 title: 'let, const 그리고 var (자바스크립트 변수 선언)'
 date: 2020-12-21 00:08:00
-category: 'JavaScript'
+category: 'javascript'
 draft: false
 ---
 
